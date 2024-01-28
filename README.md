@@ -1,2 +1,2 @@
 Projeto de criação da página inicial do jogo GTA
-<img src="scr/imagem/capa proj GTA.png">
+<img src="src/imagens/capa proj GTA.png">
